@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="LICENSE"><img alt="license" src="https://img.shields.io/github/license/vctcn93/sino-adaptive-westernization?style=flat-square"></a>
-  <a href="https://github.com/vctcn93/sino-adaptive-westernization/releases"><img alt="version" src="https://img.shields.io/github/v/release/vctcn93/sino-adaptive-westernization?style=flat-square"></a>
+  <a href="https://github.com/vctcn93/sino-adaptive-westernization/releases"><img alt="version" src="https://img.shields.io/github/v/tag/vctcn93/sino-adaptive-westernization?style=flat-square"></a>
   <a href="SKILL.md"><img alt="format" src="https://img.shields.io/badge/format-SKILL.md-blue?style=flat-square"></a>
   <a href="https://github.com/vctcn93/sino-adaptive-westernization/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/vctcn93/sino-adaptive-westernization?style=flat-square"></a>
 </p>
