@@ -27,8 +27,6 @@ A skill for auditing and rewriting Chinese prose. It holds two sets of trouble i
 
 Yu Guangzhong's three essays supply the first set. 《中文的常态与变态》 separates the normal from the abnormal and gives every disease a name you can point at. 《从西而不化到西而化之》 tells westernization that damages a sentence from borrowing that pays off, and works fifty-one examples to show the difference. 《论中文之西化》 follows the syntax back through history. Read together they hand a model something it lacked: a way to call a sentence broken, not merely rare.
 
-The second set is not his. It is what editors have been arguing about since 2023, the tells of Chinese written by a machine. Nothing in that file is borrowed from the essays.
-
 | # | Rule | Signals | English source | Before | After | What it fixes |
 |---|---|---|---|---|---|---|
 | 1 | Light verb + abstract noun | 作出 / 进行 / 加以 / 给予 / 予以 | *make a response, take action, conduct a study* (Yu) | 作出了十分热烈的反应 | 反应十分热烈 | An empty verb propping up an empty noun |
