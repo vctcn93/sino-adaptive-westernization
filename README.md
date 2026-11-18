@@ -68,7 +68,7 @@ git clone https://github.com/vctcn93/sino-adaptive-westernization \
 > [!TIP]
 > Restart the session or run `/reload` afterwards. Skill lists are read at startup.
 
-## Files and how it is called
+## Structure
 
 ```text
 sino-adaptive-westernization/
