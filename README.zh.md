@@ -94,8 +94,3 @@ sino-adaptive-westernization/
 ```
 
 五步，顺序不变：定语域，过护栏，三层扫，重构，然后回头查自己的稿子有没有同样的毛病。
-
-## 许可
-
-MIT，全文见 [LICENSE](LICENSE)；
-纪念余光中先生。

@@ -94,7 +94,3 @@ sino-adaptive-westernization/
 ```
 
 Five steps, always in order: fix the register, run the guardrails, scan the three layers, rebuild the sentence, then check your own output for the same tics.
-
-## License
-
-MIT. The full text is in [LICENSE](LICENSE), together with a note on the passages quoted from Yu Guangzhong.
