@@ -29,8 +29,6 @@ Yu Guangzhong's three essays supply the first set. 《中文的常态与变态�
 
 The second set is not his. It is what editors have been arguing about since 2023, the tells of Chinese written by a machine. Nothing in that file is borrowed from the essays.
 
-Register decides how hard either set bites. Official documents and papers keep their technical terms and their passives. Commentary and essays get the full treatment.
-
 | # | Rule | Signals | English source | Before | After | What it fixes |
 |---|---|---|---|---|---|---|
 | 1 | Light verb + abstract noun | 作出 / 进行 / 加以 / 给予 / 予以 | *make a response, take action, conduct a study* (Yu) | 作出了十分热烈的反应 | 反应十分热烈 | An empty verb propping up an empty noun |
